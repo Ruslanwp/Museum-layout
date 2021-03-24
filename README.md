@@ -7,7 +7,6 @@
 Page was created using (SCSS/SASS) HTML5, BEM methodology, Pixel perfect, adaptive layout
 
 # Installing 
-  Fork and clone this repository
-  Run npm install in your terminal
-  Run npm start
-  
+  1. Fork and clone this repository
+  2. Run npm install in your terminal
+  3. Run npm start
