@@ -5,3 +5,9 @@
 [DEMO](https://ruslanwp.github.io/Museum-layout/)
 
 Page was created using (SCSS/SASS) HTML5, BEM methodology, Pixel perfect, adaptive layout
+
+# Installing 
+  Fork and clone this repository
+  Run npm install in your terminal
+  Run npm start
+  
